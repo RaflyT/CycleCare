@@ -16,7 +16,9 @@
         android:id="@+id/bottomNav"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-
+        android:background="#AEB1C1"
+        app:labelVisibilityMode="labeled"
+        android:padding="4dp"
 
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
